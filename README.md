@@ -1,6 +1,6 @@
 # kojun-sudoku
 
-Algoritmo que utiliza a técnica de back-tracking para encontrar valores possíveis para solução do problema.
+Aplicação que utiliza a técnica de back-tracking refinanando o algoritmo de busca por força bruta com objetivo de encontrar valores possíveis que podem ser eliminados sem serem explicitamente examinados para determinar a solução do problema.
 
 Exemplo de entrada:
 
